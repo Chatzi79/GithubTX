@@ -1,9 +1,10 @@
-filters:
+git:
+  filters:
   - filter_type: file
     file_format: HTML
-    source_language: en
     source_file: GithubTX/transifexgithub.html
-    translation_files_expression: 'translations/<lang>/transifexgithub.html
+    source_language: en
+    translation_files_expression: 'Translations/<lang>/'
     
     
     
