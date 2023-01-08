@@ -2,7 +2,7 @@ git:
   filters:
   - filter_type: file
     file_format: HTML
-    source_file: /main/transifexgithub.html
+    source_file: transifexgithub.html
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
     
